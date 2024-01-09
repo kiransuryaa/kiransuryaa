@@ -5,10 +5,10 @@
 - 📫 How to reach me: Reach me at suryawanshikiran02@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Skills:
-       1. SQL
-       2. MS-EXCEL
-       3. PYTHON
-       4. POWERBI
+-        1. SQL
+-        2. MS-EXCEL
+-        3. PYTHON
+-        4. POWERBI
 
 <!---
 kiransuryaa/kiransuryaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
